@@ -4,7 +4,7 @@
         #MINI PROJECT : ONLINE BANKING SYSTEM
         #(using Socket Programming, System Calls, File Locking)
         
-PLEASE OPEN readme file in repository to execute this project in your local machine.
+PLEASE OPEN manual file in repository and follow the steps written to execute this project in your local machine.
 
 STRUCTURES:
 
